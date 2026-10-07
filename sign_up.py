@@ -1,1 +1,2 @@
-print("left")
+print("Hello! Welcome to the sign-up page.")
+
