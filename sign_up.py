@@ -1,1 +1,1 @@
-print("Sign up")
+print("left")
